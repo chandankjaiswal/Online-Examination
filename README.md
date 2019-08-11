@@ -1,4 +1,4 @@
-# Online-Examination
+# Online-Examination (Mini Project)
 
 On-line Exam System is very useful for Educational Institute to prepare an exam, safe the
 time that will take to check the paper and prepare mark sheets. It will help the Institute to testing of
